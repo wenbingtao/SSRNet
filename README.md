@@ -40,14 +40,12 @@ To start network training, run
 $ python ssr.py <config> --train
 ```
 ## Generate mesh
-First, test a trained model to predict vertex labels.
-Run
+First, test a trained model to predict vertex labels.Run
 
 ```
 $ python ssr.py <config> --test
 ```
-Second, use the output label file to generate mesh.
-Run
+Second, use the output label file to generate mesh.Run
 
 ```
 $ mesh_generator <scan_path> <label_file> <output_mesh_file> 
