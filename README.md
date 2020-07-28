@@ -33,7 +33,7 @@ Experimental parameters are stored in .json configuration files.
 We provide the prepared data for you:
 
 ground truth1:https://pan.baidu.com/s/1dfTZstJSs173kDNjdfDXcw
-password:7jkm
+password:7jkm 
 ground truth2:https://pan.baidu.com/s/1Um1A6DagiFeOrBjTc7Grzw
 password:ggb8
 
