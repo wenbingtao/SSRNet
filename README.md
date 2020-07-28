@@ -32,6 +32,14 @@ ssrnet/util/path_config.py
 Experimental parameters are stored in .json configuration files.
 We provide the prepared data for you. The transformed data consists of vertex labels, dividing information, and other necessary information. You can use it to run our network directly. 
 
+ground truth1:https://pan.baidu.com/s/1dfTZstJSs173kDNjdfDXcw
+
+password:7jkm
+
+ground truth2:https://pan.baidu.com/s/1Um1A6DagiFeOrBjTc7Grzw
+
+password:ggb8
+
 You can put the data anywhere, but make sure the data path in your configuration file are set correctly.
 ## Training
 To start network training, run
